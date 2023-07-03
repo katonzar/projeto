@@ -1,0 +1,143 @@
+nav a {
+    color: brown;
+}
+
+/*cabeçalho*/
+
+.home {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px; 
+}
+/*cor das letras e cor do fundo*/
+body{
+    color: dark(19, 14, 7, 0.575);
+    background-color: rgb(212, 235, 235);
+    color: hsl(120, 68%, 15%);
+}
+/*Botão de acesso ao prontuário do paciente*/
+.paciente {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     width: 2000px;
+    size: 500px;
+}
+/*imagem de fundo*/
+.fundo {
+    background-image: url('img/plano-de-saude-para-idosos-5-dicas-importantes-20190704120123.jpg');
+    background-size: cover;
+    opacity: 0.3;
+    width: 2000px;
+    size: 500px;
+}
+/*título e sub título*/
+ h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ } 
+ h2 {
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+ } 
+ /*ícone SAIBA MAIS*/
+ p {
+    font-size: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
+.video {
+    margin-left: 500px;
+    width: 1000px;
+    height: 500px;
+}
+.mapa {
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+/*Assinatura do site*/
+footer {
+    color: black;
+}
+
+/*inicio da pagina 2*/
+body{
+    color: dark(19, 14, 7, 0.575);
+    background-color: rgb(212, 235, 235);
+    color: hsl(120, 68%, 15%);
+}
+.maos {
+    background: url('img/108-Princípios-gerais-e-objetivos-da-Estratégia-de-Saúde-da-Família-ESF (2).png');
+    width: 2000px;
+    size: 2000px;
+    opacity: 0.3;
+}
+form {
+    font-size: 10px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+    font-size: 30px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ button {
+   width: 100px;
+   height: 50px;
+ }   
+ /*inicio da pagina 3*/
+ .medicamentos {
+    background: url('img/108-Princípios-gerais-e-objetivos-da-Estratégia-de-Saúde-da-Família-ESF (2).png');
+    width: 3000px;
+    size: 300px;
+    opacity: 0.3;
+ }
+
+ div {
+    background-image: url('img/plano-de-saude-para-idosos-5-dicas-importantes-20190704120123.jpg');
+    text-align: center;
+    box-shadow: inset 10px 30px 13px 30px rgb(209, 203, 218);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    height: 1100px;
+    width: 1500px;
+    
+
+    border-style: solid;
+    border-width: 20px;
+    border-color: rgba(23, 236, 52, 0.555);
+    border-radius: 30px;
+
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+    outline-width: 50px;
+    outline-style: double;
+    outline-color: rgb(25, 68, 25);
+
+    margin: auto;
+    margin-top: 50px;
+ }
+
+ .prontuario {
+    background-image: url('img/108-Princípios-gerais-e-objetivos-da-Estratégia-de-Saúde-da-Família-ESF (2).png');
+ }
+
+ .prescricoes {
+     background-image: url('img/pngtree-health-logo-vector-png-image_5183004 (2).jpg');
+     opacity: 0.8;
+     
+}
+
+
+  
+
+
+
+
+
